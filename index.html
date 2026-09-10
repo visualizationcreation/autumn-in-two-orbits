@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f6d27b"><meta name="description" content="Real autumn leaves in Seattle and Portland, six public-domain poems, a guided spiral journey, and optional gentle piano."><title>Autumn in the Pacific Northwest</title><link rel="stylesheet" href="style.css?v=pnw-v3"><script src="orb-data.js?v=pnw-v3" defer></script><script src="app.js?v=pnw-v3a" defer></script></head>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f6d27b"><meta name="description" content="Real autumn leaves in Seattle and Portland, six public-domain poems, and separate English and Spanish guided poetry films with gentle piano."><title>Autumn in the Pacific Northwest</title><link rel="stylesheet" href="style.css?v=films-v1"><script src="orb-data.js?v=films-v1" defer></script><script src="app.js?v=films-v1" defer></script><script src="film-data.js?v=films-v1" defer></script><script src="film-player.js?v=films-v1" defer></script></head>
 <body>
 <header><a class="brand" href="https://visualizationcreation.github.io/orb-archive/">◎ <span>ORB / SEASONAL LIBRARY</span></a><div class="header-right"><span>AUTUMN ANTHOLOGY · 01</span><button id="about">About & credits</button></div></header>
 <main>
@@ -20,6 +20,15 @@
  <div class="map-footer"><button id="history">↩ Viewing history</button><button id="continue">Continue in Orbiverse ↗</button></div>
 </section>
 <section class="reader-panel" aria-label="Poem and image reader">
+ <section class="film-player" aria-label="Recorded poetry journeys">
+ <p class="eyebrow">ORB FEEL & EXPERIENCE · TWO SEPARATE EDITIONS</p>
+ <h2>A little room for autumn.</h2>
+ <p>A gentle poetry walk with real leaves and quiet piano.</p>
+ <div class="film-actions"><label for="film-language">Language</label><select id="film-language"><option value="en">English · Bella · 6:10</option><option value="es">Español · Dora · 6:31</option></select><button id="film-start">Start listening</button><button id="film-watch">Watch the film ↗</button></div>
+ <audio id="film-audio" controls preload="none" aria-label="Recorded poetry journey"></audio>
+ <p id="film-caption" lang="en">Locally generated voices. The spiral follows the recording.</p>
+ <p class="film-links"><a id="film-transcript" href="film-transcript-en.md">Matching film transcript</a> · <a href="film-credits.md">Film credits & licenses</a></p>
+</section>
  <nav class="layers" aria-label="Reading layer"><button data-mode="poem" aria-pressed="true">Poem & image</button><button data-mode="history" aria-pressed="false">History & reading</button><button data-mode="feel" aria-pressed="false">Feel & Experience</button></nav>
  <div class="reader-media"><img id="scene" src="orchard.jpg?v=pnw-v3" alt="Golden leaves spread above dark branches at Portland Japanese Garden."><span class="image-kind">AUTUMN PHOTOGRAPH</span><button id="expand-image" aria-label="View complete image">↗</button></div>
  <article id="reading" tabindex="-1"></article>

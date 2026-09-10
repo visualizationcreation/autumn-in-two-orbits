@@ -402,5 +402,29 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "changes": "Original recording unchanged; optional looping and user-adjustable playback volume with a soft start.",
     "sha256": "8cba6bb3da51066ad39520ec218a327bb6222d8fb32bc52f28a1e90b67756f70"
+  },
+  "films": {
+    "mode": "ORB Feel & Experience",
+    "revision": "films-v1",
+    "description": "Separate recorded English and Spanish short film adaptations; the longer guided text remains unrecorded.",
+    "credits": "film-credits.md",
+    "languages": [
+      {
+        "language": "en",
+        "voice": "Kokoro Bella",
+        "durationSeconds": 370.3383333333333,
+        "audio": "film-journey-en.mp3",
+        "transcript": "film-transcript-en.md",
+        "youtubeId": "WVFtpmpVOJM"
+      },
+      {
+        "language": "es",
+        "voice": "Kokoro Dora",
+        "durationSeconds": 391.4759583333333,
+        "audio": "film-journey-es.mp3",
+        "transcript": "film-transcript-es.md",
+        "youtubeId": "rbTfYA5qNj8"
+      }
+    ]
   }
 }

@@ -1,10 +1,39 @@
 {
   "id": "autumn-in-two-orbits",
   "title": "Autumn in the Pacific Northwest",
-  "description": "Six public-domain autumn poems, six documented photographs of leaves in Seattle and Portland, a spherical spiral and optional relaxing piano.",
+  "description": "Six complete public-domain autumn poems and real Seattle and Portland leaf photographs. Separate English and Spanish guided film journeys with locally generated narration, measured captions and quiet piano follow the twelve-stop spiral.",
   "pointCount": 12,
   "imageCount": 6,
-  "availableJourneys": [],
+  "availableJourneys": [
+    {
+      "name": "ORB Feel & Experience — English · Bella",
+      "style": "rest",
+      "courseMode": "feel",
+      "language": "en",
+      "durationSeconds": 370.3383333333333,
+      "durationLabel": "6:10",
+      "narrationReady": true,
+      "url": "https://visualizationcreation.github.io/autumn-in-two-orbits/?lang=en#keats",
+      "voice": "Kokoro Bella",
+      "pointCount": 12,
+      "script": "film-transcript-en.md",
+      "adaptation": "Short film journey; separate from the longer unrecorded guided text."
+    },
+    {
+      "name": "ORB Feel & Experience — Español · Dora",
+      "style": "rest",
+      "courseMode": "feel",
+      "language": "es",
+      "durationSeconds": 391.4759583333333,
+      "durationLabel": "6:31",
+      "narrationReady": true,
+      "url": "https://visualizationcreation.github.io/autumn-in-two-orbits/?lang=es#keats",
+      "voice": "Kokoro Dora",
+      "pointCount": 12,
+      "script": "film-transcript-es.md",
+      "adaptation": "Short film journey; separate from the longer unrecorded guided text."
+    }
+  ],
   "guidedText": {
     "style": "rest",
     "narrationReady": false,
@@ -29,5 +58,29 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "changes": "Original recording unchanged; optional looping and user-adjustable playback volume with a soft start.",
     "sha256": "8cba6bb3da51066ad39520ec218a327bb6222d8fb32bc52f28a1e90b67756f70"
+  },
+  "films": {
+    "mode": "ORB Feel & Experience",
+    "revision": "films-v1",
+    "description": "Separate recorded English and Spanish short film adaptations; the longer guided text remains unrecorded.",
+    "credits": "film-credits.md",
+    "languages": [
+      {
+        "language": "en",
+        "voice": "Kokoro Bella",
+        "durationSeconds": 370.3383333333333,
+        "audio": "film-journey-en.mp3",
+        "transcript": "film-transcript-en.md",
+        "youtubeId": "WVFtpmpVOJM"
+      },
+      {
+        "language": "es",
+        "voice": "Kokoro Dora",
+        "durationSeconds": 391.4759583333333,
+        "audio": "film-journey-es.mp3",
+        "transcript": "film-transcript-es.md",
+        "youtubeId": "rbTfYA5qNj8"
+      }
+    ]
   }
 }
