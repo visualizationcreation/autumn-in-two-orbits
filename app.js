@@ -82,7 +82,7 @@ musicToggle.onclick=async()=>{
  cancelAnimationFrame(fadeFrame);
  if(!music.paused){music.pause();music.volume=chosenVolume();$('#music-status').textContent='Paused — continue whenever you wish.';return;}
  musicStarting=true;musicToggle.disabled=true;music.volume=0;$('#music-status').textContent='Opening the piano…';
- try{await music.play();musicUI();$('#music-status').textContent='Quiet piano for your autumn walk.';const start=performance.now();const fade=now=>{music.volume=chosenVolume()*Math.min(1,(now-start)/1200);if(now-start<1200&&!music.paused)fadeFrame=requestAnimationFrame(fade);};fadeFrame=requestAnimationFrame(fade);}
+ try{await music.play();musicUI();$('#music-status').textContent='Quiet piano for your autumn walk.';const start=performance.now();const fade=now=>{music.volume=chosenVolume()*Math.max(0,Math.min(1,(now-start)/1200));if(now-start<1200&&!music.paused)fadeFrame=requestAnimationFrame(fade);};fadeFrame=requestAnimationFrame(fade);}
  catch{musicUI();$('#music-status').textContent='Music could not load. Press play to try again.';}
  finally{musicStarting=false;musicToggle.disabled=false;}
 };
