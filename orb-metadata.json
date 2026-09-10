@@ -1,21 +1,33 @@
 {
   "id": "autumn-in-two-orbits",
-  "title": "Autumn, in Two Orbits",
-  "description": "Six complete public-domain autumn poems alternate with six credited photographs along a luminous spherical spiral, with historical readings and a connected Feel & Experience text journey.",
+  "title": "Autumn in the Pacific Northwest",
+  "description": "Six public-domain autumn poems, six documented photographs of leaves in Seattle and Portland, a spherical spiral and optional relaxing piano.",
   "pointCount": 12,
   "imageCount": 6,
   "availableJourneys": [],
   "guidedText": {
     "style": "rest",
     "narrationReady": false,
-    "url": "guided-journey-feel-v2.md",
-    "revision": "feel-v2",
-    "title": "Where the light goes — an autumn walk",
-    "wordCount": 1885
+    "url": "guided-journey-pnw-v3.md",
+    "revision": "feel-pnw-v3",
+    "title": "Through leaves and light — a Pacific Northwest autumn dream",
+    "wordCount": 1922
   },
   "authorship": "Selection, commentary, interface and guided prose authored by the primary assistant; no local language model used for writing.",
   "updated": "2026-09-10",
-  "visualRevision": "photos-spiral-v2",
+  "visualRevision": "pnw-leaves-v3",
   "photographCount": 6,
-  "generatedImageCount": 0
+  "generatedImageCount": 0,
+  "music": {
+    "title": "Gymnopedie No. 1",
+    "composer": "Erik Satie",
+    "performer": "Kevin MacLeod",
+    "file": "autumn-piano.mp3",
+    "durationSeconds": 187.089,
+    "sourceUrl": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100787",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original recording unchanged; optional looping and user-adjustable playback volume with a soft start.",
+    "sha256": "8cba6bb3da51066ad39520ec218a327bb6222d8fb32bc52f28a1e90b67756f70"
+  }
 }
