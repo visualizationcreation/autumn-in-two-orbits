@@ -8,7 +8,10 @@
   "guidedText": {
     "style": "rest",
     "narrationReady": false,
-    "url": "guided-journey.md"
+    "url": "guided-journey-feel-v2.md",
+    "revision": "feel-v2",
+    "title": "Where the light goes — an autumn walk",
+    "wordCount": 1885
   },
   "authorship": "Selection, commentary, interface and guided prose authored by the primary assistant; no local language model used for writing.",
   "updated": "2026-09-10",
