@@ -23,8 +23,8 @@
       "investigation": "Compare the figures of the reaper and gleaner with the opening abundance. Then consult contemporary accounts of agricultural work around Winchester. The poem establishes its images; this orb does not establish the workers’ lived conditions from those images alone.",
       "feel": "You may settle into a comfortable position, with your eyes open and your breath finding its own pace. Imagine an autumn path beginning just outside an orchard. This is a place made for the journey, not a reconstruction of Keats’s walk. The air is cool near your cheeks, and an apple carries a small weight of water on its skin. Let the first lines arrive as slowly as the fruit has ripened. Behind the sweetness are hands, fields, and the work of harvest. Nothing here has to hurry into winter. As the poem turns toward its smaller sounds, you can leave a little room around each one: a cricket, a bird, the light movement of wings.",
       "imageTitle": "The weight of an apple",
-      "alt": "Imagined apple orchard in golden morning mist, with red apples and a distant cottage.",
-      "imageReading": "A moment to look without adding another sentence. Follow the weight of the fruit, then the light in the grass. This original imagined orchard responds to the poem; it does not show Keats’s historical surroundings.",
+      "alt": "Red apples hang among dark green orchard leaves in low sunlight.",
+      "imageReading": "The camera brings ripeness close: red apples hang in the dark leaves, their weight visible on the slender branches. Let this small piece of an orchard hold Keats’s larger season of abundance. This contemporary photograph is a companion to the poem; it does not depict Keats’s own orchard or the place where he wrote.",
       "imageFeel": "Stay a moment in the orchard’s soft light. You might imagine the rough bark close to your hand, and the small coolness of the apple before it warms against your palm. Then let your attention drift past the fruit to a branch beginning to change color. The world is putting on something bright, and another voice is ready to notice.",
       "sources": [
         {
@@ -38,7 +38,21 @@
       },
       "level": 1,
       "ab": 0,
-      "tier": "core"
+      "tier": "core",
+      "photo": {
+        "file": "orchard.jpg",
+        "type": "photograph",
+        "photographer": "Connor Scott McManus",
+        "sourceUrl": "https://www.pexels.com/photo/ripe-apples-hanging-on-a-tree-in-autumn-29043501/",
+        "license": "Pexels License",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "downloadUrl": "https://images.pexels.com/photos/29043501/pexels-photo-29043501.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "retrievedAt": "2026-09-10",
+        "width": 1600,
+        "height": 1068,
+        "changes": "Resized and JPEG compressed; reader header crops responsively, full image available. No generative alteration.",
+        "sha256": "4055d67bfbf027fd3b78e78af4bc1fd2d9e94faa161950b9c4a4366ce266d64c"
+      }
     },
     {
       "id": "dickinson",
@@ -59,8 +73,8 @@
       "investigation": "Compare a scan of the 1890 printing with a manuscript or a documented scholarly apparatus. Keep each version distinct. This is an editorial inquiry, not a claim that Dickinson’s intention can be recovered from one punctuation choice.",
       "feel": "The orchard opens into a meadow, and you can let the day become a little lighter. A maple branch holds red against the sky. In the early published Dickinson poem, the landscape dresses itself, and the speaker decides to join it. You need not imagine wearing anything elaborate. Perhaps one leaf is enough: a small brightness carried for the pleasure of its color. Let the smile in those last lines have its own space. The season does not ask you to stand outside and admire it. In this poem, you can belong to the scene.",
       "imageTitle": "A scarf for the maple",
-      "alt": "Scarlet and orange maple leaves against a blue autumn sky and golden meadow.",
-      "imageReading": "Look at a single leaf before taking in the whole branch. The imagined maple carries Dickinson’s clothing metaphor into color. The scene is newly generated, not an image associated with her manuscript.",
+      "alt": "Red autumn maple leaves spread across a pale blue sky.",
+      "imageReading": "A maple lifts its red leaves into the sky. Dickinson dresses the season in ordinary clothes, and the branches make a natural companion to her image of a scarf. The photograph shows real foliage; the idea of the tree getting dressed belongs to the poem and to your reading.",
       "imageFeel": "Let the red of the leaves meet the blue beyond them. You can look softly, without needing to name every shade. A breeze in the imagined meadow turns one leaf, briefly showing its paler underside. That small motion draws your attention toward water, where sunlight is already moving in little flashes.",
       "sources": [
         {
@@ -74,7 +88,21 @@
       },
       "level": 1,
       "ab": 0,
-      "tier": "core"
+      "tier": "core",
+      "photo": {
+        "file": "maple.jpg",
+        "type": "photograph",
+        "photographer": "Physical Pixel",
+        "sourceUrl": "https://www.pexels.com/photo/red-leaves-on-tree-in-autumn-16499531/",
+        "license": "Pexels License",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "downloadUrl": "https://images.pexels.com/photos/16499531/pexels-photo-16499531.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "retrievedAt": "2026-09-10",
+        "width": 1200,
+        "height": 1600,
+        "changes": "Resized and JPEG compressed; reader header crops responsively, full image available. No generative alteration.",
+        "sha256": "dd91b2b5508caff639579b701896e66e992e68cb6e339b2fcee73a15050e1f48"
+      }
     },
     {
       "id": "dunbar",
@@ -95,8 +123,8 @@
       "investigation": "Set Dunbar’s clothing images beside Dickinson’s and Keats’s final sounds. Mark the observations separately from the emotions the speakers assign. This is an open interpretive question for this anthology, not an unresolved scientific claim.",
       "feel": "At the brook, the light refuses to stay still. You can follow one small gleam as it breaks apart and returns further downstream. Dunbar’s speaker has no patience with the rule that autumn must be sorrowful. Let that refusal be playful rather than another feeling you have to achieve. If your own day is quieter or heavier, the poem can keep its delight without asking you to imitate it. Around the imagined water, crimson leaves move in the current. For a little while, their motion is enough.",
       "imageTitle": "Where the sunlight laughs",
-      "alt": "A shallow autumn brook reflecting sunlight beneath amber and crimson trees.",
-      "imageReading": "The little folds of water offer a visual companion to Dunbar’s “ripples.” This is an imagined stream, paired for its movement and reflected color, with no claim that it depicts a place the poet visited.",
+      "alt": "Sunlight filters through autumn woodland above a rocky stream.",
+      "imageReading": "A stream catches the light under yellowing woodland leaves. Its movement offers a visual way into Dunbar’s cheerful resistance to autumn as a season of grief. This is a contemporary woodland photograph, paired for its light and water, without a claim that Dunbar knew this place.",
       "imageFeel": "Let the water carry the eye outward. Each quick brightness belongs to a surface already changing. You can leave the stream exactly as it is and follow the path up the bank, where the trees begin to open. Ahead, a broad blue sky makes room for the whole hillside.",
       "sources": [
         {
@@ -110,7 +138,21 @@
       },
       "level": 1,
       "ab": 0,
-      "tier": "core"
+      "tier": "core",
+      "photo": {
+        "file": "brook.jpg",
+        "type": "photograph",
+        "photographer": "hejpetrpepa Pepa",
+        "sourceUrl": "https://www.pexels.com/photo/autumn-sunlit-forest-stream-in-scenic-woodland-29704049/",
+        "license": "Pexels License",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "downloadUrl": "https://images.pexels.com/photos/29704049/pexels-photo-29704049.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "retrievedAt": "2026-09-10",
+        "width": 1600,
+        "height": 1067,
+        "changes": "Resized and JPEG compressed; reader header crops responsively, full image available. No generative alteration.",
+        "sha256": "b99fc06a7a6208a7ba229d1ed9f697c16db1d2173fbb1b1493139f1c2d6737a2"
+      }
     },
     {
       "id": "jackson",
@@ -131,8 +173,8 @@
       "investigation": "Trace the poem’s words for possession and destruction. Compare October with September and November in the same calendar. The collection can test this reading more reliably than a claim about the poet’s private feelings.",
       "feel": "You arrive where the hillside opens under blue. The imagined trees carry colors that seem almost too many to keep: amber beside russet, pale gold beside red. Jackson calls October a carnival, but her abundance includes an image of death. You can let both remain. The beauty does not need a promise that it will last, and the ending does not erase the beauty. Let your attention rest on the space between the treetops and the sky. There is no need to gather the whole hillside into memory. One patch of light may be plenty.",
       "imageTitle": "Under October’s blue",
-      "alt": "Gold and copper autumn trees on a broad hillside beneath a clear blue sky.",
-      "imageReading": "A wide view after the brook’s close detail. This newly imagined landscape answers the poem’s blue dome and extravagant color; it is a thematic companion rather than a historical location.",
+      "alt": "Golden autumn hills stretch beneath blue sky and white clouds.",
+      "imageReading": "Blue sky opens above folds of autumn hills. Jackson’s bright October can feel expansive and precarious at once; the distant slopes let your eye rest inside that tension. The source identifies an autumn landscape. The pairing does not establish an October capture date or the setting of Jackson’s sonnet.",
       "imageFeel": "Stay with that open blue a little longer. Then imagine the sun lowering until the colors deepen and the spaces between the trees turn cool. A garden wall appears along the path. Beyond it, a small glow gathers the last warmth of the day into a different kind of brightness.",
       "sources": [
         {
@@ -146,7 +188,21 @@
       },
       "level": 1,
       "ab": 0,
-      "tier": "core"
+      "tier": "core",
+      "photo": {
+        "file": "october.jpg",
+        "type": "photograph",
+        "photographer": "Havvanur",
+        "sourceUrl": "https://www.pexels.com/photo/autumn-landscape-with-rolling-hills-and-clear-sky-34647123/",
+        "license": "Pexels License",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "downloadUrl": "https://images.pexels.com/photos/34647123/pexels-photo-34647123.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "retrievedAt": "2026-09-10",
+        "width": 1067,
+        "height": 1600,
+        "changes": "Resized and JPEG compressed; reader header crops responsively, full image available. No generative alteration.",
+        "sha256": "f88bc04434b8510b3e55e61fa290dcfbcbb5adc16affee97d1540e27dea7b42a"
+      }
     },
     {
       "id": "stevenson",
@@ -167,8 +223,8 @@
       "investigation": "Compare the poem with other seasonal or retrospective passages in A Child’s Garden of Verses. Separate the childlike speaking voice from claims about any actual child’s experience. Both interpretations can be tested against the language without assuming one hidden biography.",
       "feel": "In the imagined garden, the day is turning violet. You can remain comfortably back from the small fire, looking at its red center and the pale line of smoke. Stevenson’s poem lets summer be over and still finds something bright. Perhaps you can receive that as an invitation to notice, without making it a rule about your own life. The warmth belongs to this scene; your own body can stay here, supported where you are. Beyond the wall, the hill grows quiet. A little color remains when the flowers are gone.",
       "imageTitle": "Something bright remains",
-      "alt": "A small contained bonfire glows in an imagined rural garden at blue hour, with pale smoke.",
-      "imageReading": "Red warmth against the violet of evening. This original illustration responds to Stevenson’s color and smoke; it is not a historical photograph or practical burning advice.",
+      "alt": "Two people beside a smoking campfire on a brown hillside at sunset.",
+      "imageReading": "Two people share the edge of a campfire at sunset, with smoke drifting over a dry hillside. The scene gives Stevenson’s seasonal warmth a human scale. It is a modern outdoor photograph, tagged autumn by its source, rather than a reconstruction of the garden fire in the poem.",
       "imageFeel": "Watch the imagined smoke become less distinct as it rises. You do not have to follow it all the way. The garden path continues to a sheltered table, where a basket has been set down. After the moving flame, the stillness of ordinary fruit feels especially gentle.",
       "sources": [
         {
@@ -182,7 +238,21 @@
       },
       "level": 1,
       "ab": 0,
-      "tier": "core"
+      "tier": "core",
+      "photo": {
+        "file": "fire.jpg",
+        "type": "photograph",
+        "photographer": "Денис Нагайцев",
+        "sourceUrl": "https://www.pexels.com/photo/people-making-a-bonfire-on-a-hill-11657705/",
+        "license": "Pexels License",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "downloadUrl": "https://images.pexels.com/photos/11657705/pexels-photo-11657705.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "retrievedAt": "2026-09-10",
+        "width": 1600,
+        "height": 1067,
+        "changes": "Resized and JPEG compressed; reader header crops responsively, full image available. No generative alteration.",
+        "sha256": "a6a217417a38008cd81b72f01058a78f3ea62e1043c582ed821cb81bcaae31f1"
+      }
     },
     {
       "id": "blake",
@@ -203,8 +273,8 @@
       "investigation": "Compare Blake’s visitor with Keats’s harvest worker, Dickinson’s dressed landscape, and Dunbar’s laughing world. These are distinct poetic constructions. This orb leaves their differences available for further reading instead of deciding that autumn has one final meaning.",
       "feel": "At the table, you find grapes and pears in the evening light. Blake imagines Autumn as a guest who sings and then leaves his harvest behind. You need not picture an actual person passing through. Let the poem’s figure remain a figure, and let the fruit be something your imagination can almost hold. Around it gather the scenes you have crossed: the orchard’s fullness, a bright leaf, the brook’s movement, an open sky, and a little warmth after sunset. None has to become a lesson. For now, you can simply let them share the same quiet table.",
       "imageTitle": "The golden load",
-      "alt": "Purple grapes and golden pears on a rustic sheltered table overlooking quiet autumn hills.",
-      "imageReading": "The journey closes with a still life rather than an empty horizon. An original imagined table gives visual weight to Blake’s remaining harvest, without representing an actual scene from his life.",
+      "alt": "Yellow and green pears fill a harvest basket.",
+      "imageReading": "A basket of pears brings the journey back to the weight of harvested fruit. Their uneven skins and crowded shapes make a modest visual echo of Blake’s overflowing personification of Autumn. This contemporary harvest photograph is paired for the season’s abundance; it does not illustrate every fruit or action in his poem.",
       "imageFeel": "You can leave the basket where it is. There is nothing more to gather before returning. Let the imagined hills grow soft at the edge of your attention, and notice the real surface supporting you. Perhaps feel your feet, or the contact of your hands. Let your eyes find an ordinary color in the room. Autumn has held more than one voice: fullness, play, delight, splendor, warmth, and departure. You can return carrying whichever small detail stayed with you—or simply the ease of having paused.",
       "sources": [
         {
@@ -218,7 +288,21 @@
       },
       "level": 1,
       "ab": 0,
-      "tier": "core"
+      "tier": "core",
+      "photo": {
+        "file": "golden-load.jpg",
+        "type": "photograph",
+        "photographer": "Ebahir",
+        "sourceUrl": "https://www.pexels.com/photo/pile-of-fresh-bartlett-pears-in-a-basket-29342354/",
+        "license": "Pexels License",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "downloadUrl": "https://images.pexels.com/photos/29342354/pexels-photo-29342354.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "retrievedAt": "2026-09-10",
+        "width": 1067,
+        "height": 1600,
+        "changes": "Resized and JPEG compressed; reader header crops responsively, full image available. No generative alteration.",
+        "sha256": "5cbc1d0c9dceea40b06a07c7a9de28c9034597755aac7f95f3ccaf071305d5bb"
+      }
     }
   ],
   "route": [
@@ -290,5 +374,6 @@
         "text": "You can leave the basket where it is. There is nothing more to gather before returning. Let the imagined hills grow soft at the edge of your attention, and notice the real surface supporting you. Perhaps feel your feet, or the contact of your hands. Let your eyes find an ordinary color in the room. Autumn has held more than one voice: fullness, play, delight, splendor, warmth, and departure. You can return carrying whichever small detail stayed with you—or simply the ease of having paused."
       }
     ]
-  }
+  },
+  "visualRevision": "photos-spiral-v2"
 }

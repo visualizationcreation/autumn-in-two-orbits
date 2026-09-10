@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#221d18"><meta name="description" content="A double autumn poetry orb: six complete public-domain poems, six original autumn illustrations, history, and a gently guided reading journey."><title>Autumn, in Two Orbits</title><link rel="stylesheet" href="style.css"><script src="orb-data.js" defer></script><script src="app.js" defer></script></head>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#221d18"><meta name="description" content="A double autumn poetry orb: six complete public-domain poems, six licensed autumn photographs, history, and a gently guided reading journey."><title>Autumn, in Two Orbits</title><link rel="stylesheet" href="style.css?v=photos-v2"><script src="orb-data.js?v=photos-v2" defer></script><script src="app.js?v=photos-v2" defer></script></head>
 <body>
 <header><a class="brand" href="https://visualizationcreation.github.io/orb-archive/">◎ <span>ORB / SEASONAL LIBRARY</span></a><div class="header-right"><span>AUTUMN ANTHOLOGY · 01</span><button id="about">About & credits</button></div></header>
 <main>
 <section class="map-panel" aria-label="Double autumn orb">
- <div class="map-intro"><p class="eyebrow">A POEM, THEN A PAUSE</p><h1>Autumn,<br><em>in Two Orbits.</em></h1><p class="dek">Six poets. Six pauses.<br>A season held in words and light.</p></div>
- <div id="orb" aria-label="Select a poem or an image"><canvas id="orb-canvas" aria-hidden="true"></canvas><div id="orb-points"></div><div class="orb-center" aria-hidden="true"><span>WORDS</span><i>↔</i><span>LIGHT</span></div></div>
- <div class="map-tools"><div class="legend"><span>● POETRY</span><span>◇ IMAGE PAUSES</span></div><button id="motion" aria-pressed="false">Set in motion</button></div>
+ <div class="map-intro"><p class="eyebrow">A POEM, THEN A PAUSE</p><h1>Autumn,<br><em>in Two Orbits.</em></h1><p class="dek">Six poets. Six pauses.<br>Follow the spiral through words and light.</p></div>
+ <div id="orb" aria-label="Select a poem or an image"><canvas id="orb-canvas" aria-hidden="true"></canvas><div id="orb-points"></div></div>
+ <div class="map-tools"><div class="legend"><span>● POETRY</span><span>◇ PHOTO PAUSES</span></div><button id="motion" aria-pressed="false">Set in motion</button></div>
  <div class="compass" aria-label="Six-direction compass"><button data-move="up" title="Broader context">↑ <span>UP / broader</span></button><button data-move="down" title="Deeper reading">↓ <span>DOWN / deeper</span></button><button data-move="left" title="Previous sibling">← <span>LEFT / neighbor</span></button><button data-move="right" title="Next sibling">→ <span>RIGHT / neighbor</span></button><button data-move="backward" title="Previous stop on the authored journey">↶ <span>BACKWARD / route</span></button><button data-move="forward" title="Next stop on the authored journey">↷ <span>FORWARD / route</span></button></div>
  <p id="edge-note" class="edge-note" role="status"></p>
  <details class="index"><summary>All twelve stops <span>+</span></summary><ol id="point-index"></ol></details>
@@ -14,13 +14,13 @@
 </section>
 <section class="reader-panel" aria-label="Poem and image reader">
  <nav class="layers" aria-label="Reading layer"><button data-mode="poem" aria-pressed="true">Poem & image</button><button data-mode="history" aria-pressed="false">History & reading</button><button data-mode="feel" aria-pressed="false">Feel & Experience</button></nav>
- <div class="reader-media"><img id="scene" src="orchard.jpg" alt="Imagined apple orchard in morning mist"><span class="image-kind">ORIGINAL AI ILLUSTRATION</span><button id="expand-image" aria-label="View complete image">↗</button></div>
+ <div class="reader-media"><img id="scene" src="orchard.jpg?v=photos-v2" alt="Red apples hang among dark green orchard leaves in low sunlight."><span class="image-kind">AUTUMN PHOTOGRAPH</span><button id="expand-image" aria-label="View complete image">↗</button></div>
  <article id="reading" tabindex="-1"></article>
  <div class="reader-actions"><button id="print">Print this reading</button><button id="copy-link">Copy point link</button><span id="copy-status" role="status"></span></div>
  <div class="route-controls"><button id="previous">← Previous stop</button><span id="route-count"></span><button id="next">Next stop →</button></div>
 </section>
 </main>
-<footer class="page-footer"><span>Public-domain poetry · Original companion prose · Six generated images</span><a href="guided-journey.md" download>Download the guided script ↗</a></footer>
+<footer class="page-footer"><span>Public-domain poetry · Original companion prose · Six credited photographs</span><a href="guided-journey.md" download>Download the guided script ↗</a></footer>
 <dialog id="modal"><button class="close" aria-label="Close dialog">×</button><div id="modal-body"></div></dialog>
 <noscript><p>This interactive reader needs JavaScript. The <a href="guided-journey.md">complete guided text</a> and <a href="orb.json">poems and source notes</a> remain available as files.</p></noscript>
 </body></html>

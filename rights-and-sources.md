@@ -58,6 +58,20 @@ Related artwork, linked only: https://www.artic.edu/artworks/64736
 
 All introductory prose, historical summaries, interpretive readings, guided passages, and interface code were authored for this ORB by the primary assistant. No local language model wrote the prose. Interpretations are labeled as readings; imagined scenes do not supply historical evidence.
 
-Six new illustrations were generated with the configured local FLUX.2 Klein 4B distilled FP8 workflow. They are labeled AI-generated, and are not photographs. The public media-credits.json records prompts, seeds, settings, generation times, model verification metadata and hashes. No museum images or copyrighted recordings are included.
+Six real photographs replace the earlier generated illustrations. They are used under the [Pexels License](https://www.pexels.com/license/), with photographer attribution and original source links below. The photos remain their photographers’ work; they are not claimed as public domain. They are contemporary visual companions, not evidence of the poems’ original settings. Only resizing and JPEG compression were applied; the reader may crop the header, and offers the complete photograph. No generative alteration was applied. No museum images or copyrighted recordings are included.
 
 The guided script is complete text and unrecorded.
+
+## Photograph credits
+
+- John Keats companion — [Connor Scott McManus](https://www.pexels.com/photo/ripe-apples-hanging-on-a-tree-in-autumn-29043501/), [Pexels License](https://www.pexels.com/license/). File: orchard.jpg
+
+- Emily Dickinson companion — [Physical Pixel](https://www.pexels.com/photo/red-leaves-on-tree-in-autumn-16499531/), [Pexels License](https://www.pexels.com/license/). File: maple.jpg
+
+- Paul Laurence Dunbar companion — [hejpetrpepa Pepa](https://www.pexels.com/photo/autumn-sunlit-forest-stream-in-scenic-woodland-29704049/), [Pexels License](https://www.pexels.com/license/). File: brook.jpg
+
+- Helen Hunt Jackson companion — [Havvanur](https://www.pexels.com/photo/autumn-landscape-with-rolling-hills-and-clear-sky-34647123/), [Pexels License](https://www.pexels.com/license/). File: october.jpg
+
+- Robert Louis Stevenson companion — [Денис Нагайцев](https://www.pexels.com/photo/people-making-a-bonfire-on-a-hill-11657705/), [Pexels License](https://www.pexels.com/license/). File: fire.jpg
+
+- William Blake companion — [Ebahir](https://www.pexels.com/photo/pile-of-fresh-bartlett-pears-in-a-basket-29342354/), [Pexels License](https://www.pexels.com/license/). File: golden-load.jpg

@@ -1,7 +1,7 @@
 {
   "id": "autumn-in-two-orbits",
   "title": "Autumn, in Two Orbits",
-  "description": "Six complete public-domain autumn poems by six writers, alternating with six original seasonal illustrations, historical readings, and a connected Feel & Experience text journey.",
+  "description": "Six complete public-domain autumn poems alternate with six credited photographs along a luminous spherical spiral, with historical readings and a connected Feel & Experience text journey.",
   "pointCount": 12,
   "imageCount": 6,
   "availableJourneys": [],
@@ -11,5 +11,8 @@
     "url": "guided-journey.md"
   },
   "authorship": "Selection, commentary, interface and guided prose authored by the primary assistant; no local language model used for writing.",
-  "updated": "2026-09-09"
+  "updated": "2026-09-10",
+  "visualRevision": "photos-spiral-v2",
+  "photographCount": 6,
+  "generatedImageCount": 0
 }
